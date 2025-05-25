@@ -1,0 +1,37 @@
+<?php
+ 
+// lang/en/messages.php
+ 
+return [
+    'site_name' => 'Comercio',
+    'basket' => 'Carrito',
+    'buy' => 'Comprar',
+    'my orders' => 'Mis pedidos',
+    'basket empty' => 'El carrito está vacío',
+    'product' => 'Producto',
+    'quantity' => 'Cantidad',
+    'price' => 'Precio',
+    'subtotal' => 'Total parcial',
+    'delete' => 'Borrar',
+    'total' => 'Total',
+    'hrn' => 'hrn',
+    'checkout' => 'Verificar',
+    'address' => 'Dirección de entrega',
+    'payment_type' => 'Método de pago',
+    'payment_choose' => 'Elegir...',
+    'payment_cash' => 'Dinero',
+    'payment_cod' => 'BACALAO',
+    'payment_card' => 'Tarjeta',
+    'payment_paypal' => 'PayPal',
+    'payment_stripe' => 'Stripe',
+    'payment_liqpay' => 'LiqPay',
+    'order' => 'Pedido',
+    'status' => 'Estado del pedido',
+    'items' => 'Elementos',
+    'order_success' => 'Su pedido se ha realizado correctamente.',
+    'date' => 'Fecha de emisión',
+    'name' => 'Su nombre',
+    'phone' => 'Teléfono',
+    'no_orders' => 'Aún no tienes pedidos',
+    'view' => 'Vista',
+];

@@ -1,0 +1,37 @@
+<?php
+ 
+// lang/en/messages.php
+ 
+return [
+    'site_name' => 'Магазинчик',
+    'basket' => 'Корзина',
+    'buy' => 'Купити',
+    'my_orders' => 'Мої замовлення',
+    'basket_empty' => 'Корзина порожня',
+    'product' => 'Товар',
+    'quantity' => 'Кол-во',
+    'price' => 'Цена',
+    'subtotal' => 'Сумма',
+    'delete' => 'Удалить',
+    'total' => 'Итого',
+    'hrn' => 'грн',
+    'checkout' => 'Оформить заказ',
+    'address' => 'Адреса доставки',
+    'payment_type' => 'Спосіб оплати',
+    'payment_choose' => 'Выберіть...',
+    'payment_cash' => 'Готівка',
+    'payment_cod' => 'Післяплати',
+    'payment_card' => 'Карткою',
+    'payment_paypal' => 'PayPal',
+    'payment_stripe' => 'Stripe',
+    'payment_liqpay' => 'LiqPay',
+    'order' => 'Замовлення',
+    'status' => 'Статус замовлення',
+    'items' => 'Товари',
+    'order_success' => 'Ваш заказ успішно оформлений',
+    'date' => 'Дата оформления',
+    'name' => 'Ім\'я',
+    'phone' => 'Телефон',
+    'no_orders' => 'У Вас ще нема замовлень',
+    'view' => 'Переглянути',
+];

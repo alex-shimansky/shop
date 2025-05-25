@@ -1,0 +1,37 @@
+<?php
+ 
+// lang/en/messages.php
+ 
+return [
+    'site_name' => 'Local Shop',
+    'basket' => 'Basket',
+    'buy' => 'Buy',
+    'my orders' => 'My orders',
+    'basket empty' => 'Basket empty',
+    'product' => 'Product',
+    'quantity' => 'Quantity',
+    'price' => 'Price',
+    'subtotal' => 'Subtotal',
+    'delete' => 'Delete',
+    'total' => 'Total',
+    'hrn' => 'hrn',
+    'checkout' => 'Checkout',
+    'address' => 'Delivery address',
+    'payment_type' => 'Payment method',
+    'payment_choose' => 'Choose...',
+    'payment_cash' => 'Cash',
+    'payment_cod' => 'C.O.D',
+    'payment_card' => 'Card',
+    'payment_paypal' => 'PayPal',
+    'payment_stripe' => 'Stripe',
+    'payment_liqpay' => 'LiqPay',
+    'order' => 'Order',
+    'status' => 'Order status',
+    'items' => 'Items',
+    'order_success' => 'Your order has been successfully placed.',
+    'date' => 'Date of issue',
+    'name' => 'Your name',
+    'phone' => 'Phone',
+    'no_orders' => 'You have no orders yet.',
+    'view' => 'View',
+];
